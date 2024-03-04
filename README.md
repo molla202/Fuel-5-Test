@@ -69,7 +69,7 @@ PRivkey=yukarıda çıktı aldığımzda kaydedin dediğimiz kısımda yazıor."
 ```
 👉ÖRNEK:
 ```
-Nodeadı=CoreNode
+Nodeadi=CoreNode
 RPCsep=https://sepolia.infura.io/v3/hebele-hübele-api
 PRivkey=7e4868e36e890dsdsadadbb7f246b74bacc9bcfjhkıadhsakgdoasdjasdhasdhhaoıdasdashoıdh
 ```
@@ -95,7 +95,7 @@ Type=simple
 Restart=always
 RestartSec=120
 ExecStart=/root/.fuelup/bin/fuel-core run \
---service-name $Nodeadı \
+--service-name $Nodeadi \
 --keypair $PRivkey \
 --relayer $RPCsep \
 --ip 0.0.0.0 \
