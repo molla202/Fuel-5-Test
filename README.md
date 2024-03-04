@@ -100,7 +100,8 @@ ExecStart=/root/.fuelup/bin/fuel-core run \
 --poa-instant false \
 --enable-p2p \
 --min-gas-price 1 \
---max-block-size 18874368  --max-transmit-size 18874368 \
+--max-block-size 18874368  \
+--max-transmit-size 18874368 \
 --reserved-nodes /dns4/p2p-beta-5.fuel.network/tcp/30333/p2p/16Uiu2HAmSMqLSibvGCvg8EFLrpnmrXw1GZ2ADX3U2c9ttQSvFtZX,/dns4/p2p-beta-5.fuel.network/tcp/30334/p2p/16Uiu2HAmVUHZ3Yimoh4fBbFqAb3AC4QR1cyo8bUF4qyi8eiUjpVP \
 --sync-header-batch-size 100 \
 --enable-relayer \
