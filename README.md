@@ -73,8 +73,14 @@ Nodeadı=CoreNode
 RPCsep=https://sepolia.infura.io/v3/hebele-hübele-api
 PRivkey=7e4868e36e890dsdsadadbb7f246b74bacc9bcfjhkıadhsakgdoasdjasdhasdhhaoıdasdashoıdh
 ```
-
+### Gerekli dosyaları çekelim
+```
+mkdir -p /root/fuel-test
+```
+wget -O /root/fuel-test/chainConfig.json http://37.120.189.81/fuel/chainConfig.json
+```
 ### Servis oluşturalım
+
 ```
 sudo tee /etc/systemd/system/fueld.service > /dev/null << EOF
 [Unit]
