@@ -1,11 +1,14 @@
 
+![image](https://github.com/molla202/Fuel-5-Test/assets/91562185/08258d7d-d942-478a-aa05-cbf603157257)
 
 
-🌟 [Fuel Twitter](https://twitter.com/SourceProtocol_)
+🌟 [Fuel Twitter](https://twitter.com/fuel_network)
 
-🌟 [Fuel Discord](https://discord.gg/MuPN6kJbCK)
+🌟 [Fuel Discord](https://discord.gg/fuelnetwork)
 
-🌟 [Fuel Explorer](https://mainnet.itrocket.net/source/staking/sourcevaloper12xtalgwjakzdz4q8s05zkm0a3nkr5wlua77q2k)
+🌟 [Fuel Site](https://fuel.network/)
+
+🌟 [Fuel Doc](https://docs.fuel.network/)
 
 🔥 [CoreNode Telegram](https://t.me/corenode)
 
