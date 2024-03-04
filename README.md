@@ -61,6 +61,7 @@ fuel-core-keygen new --key-type peering
 Not: çıkan çıktıyı kaydedin. bir tuşa basarak geçin..
 
 ### Varyasyon atayalım
+Not: bize burda sepolia RPC lazım. https://app.infura.io/ sitesinden ekliyoruz... rpc nasıl alınırla ilgili daha önce örnek vardı biz sepolia alıcaz unutmayın. örnek [BURADA](https://github.com/Core-Node-Team/Testnet-TR/blob/main/Mangata/RPC-Alma.md)
 ```
 Nodeadı=Adınızı yazınız
 RPCsep=Sepolia rpcnizi yazınız
