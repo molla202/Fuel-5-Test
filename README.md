@@ -77,6 +77,7 @@ PRivkey=7e4868e36e890dsdsadadbb7f246b74bacc9bcfjhkıadhsakgdoasdjasdhasdhhaoıda
 ```
 mkdir -p /root/fuel-test
 ```
+```
 wget -O /root/fuel-test/chainConfig.json http://37.120.189.81/fuel/chainConfig.json
 ```
 ### Servis oluşturalım
